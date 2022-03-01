@@ -60,7 +60,13 @@ h2 {
   	background-color: rgb(210,210,210);
 }
 
-div.responsive-imgs {
+div.responsive-imgs-2 {
+	padding: 0px;
+	float: left;
+	width: 49%;
+}
+
+div.responsive-imgs-3 {
 	padding: 0px;
 	float: left;
 	width: 33%;
